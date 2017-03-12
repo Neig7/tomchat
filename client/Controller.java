@@ -11,7 +11,7 @@ public class Controller {
     //Text t1 = new Text();
 
 
-    User user1 = new User(1, "name1");
+    //User user1 = new User(1, "name1");
 
 //                t1.setText(user1.getIntID().toString());
     //  t1.setText(user1.getName());
